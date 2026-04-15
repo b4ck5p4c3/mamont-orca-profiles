@@ -1,0 +1,37 @@
+/*
+!.gitignore
+!filament/
+/filament/*
+!machine/
+/machine/*
+!process/
+/proccess/*
+
+!machine/BKSP voron2.4 0.4 nozzle (default).info
+!machine/BKSP voron2.4 0.4 nozzle (default).json
+!process/0.20mm Standard @Voron - Copy.info
+!process/0.20mm Standard @Voron - Copy.json
+!filament/Default ABS profile.info
+!filament/Default ABS profile.json
+!filament/Default PETG profile.info
+!filament/Default PETG profile.json
+!filament/Default PLA profile.info
+!filament/Default PLA profile.json
+!filament/Fusrock ABS-GF10 black.info
+!filament/Fusrock ABS-GF10 black.json
+!filament/Fusrock ABS-GF10 purple.info
+!filament/Fusrock ABS-GF10 purple.json
+!filament/Generic ABS A70015 purple.info
+!filament/Generic ABS A70015 purple.json
+!filament/Generic TPU @System - Copy.info
+!filament/Generic TPU @System - Copy.json
+!filament/Kingroon ABS black.info
+!filament/Kingroon ABS black.json
+!filament/Syntech ABS black.info
+!filament/Syntech ABS black.json
+!filament/Unknown ABS white.info
+!filament/Unknown ABS white.json
+!machine/BKSP voron2.4 0.4 nozzle (default).info
+!machine/BKSP voron2.4 0.4 nozzle (default).json
+!process/0.20mm Standard @Voron - Copy.info
+!process/0.20mm Standard @Voron - Copy.json

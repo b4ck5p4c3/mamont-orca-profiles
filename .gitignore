@@ -1,4 +1,5 @@
 /*
+*.info
 !.gitignore
 !/filament/
 /filament/*
@@ -6,6 +7,6 @@
 /machine/*
 !/process/
 /process/*
-!/machine/Mamont 0.4n.json
-!/process/*@Mamont 0.4n.json
-!/filament/*@Mamont 0.4n.json
+!/machine/Mamont ?.?n.json
+!/process/*@Mamont ?.?n.json
+!/filament/*@Mamont ?.?n.json

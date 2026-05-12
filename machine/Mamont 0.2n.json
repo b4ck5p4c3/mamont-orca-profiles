@@ -1,0 +1,19 @@
+{
+	"before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nTIMELAPSE_TAKE_FRAME\nG92 E0\n",
+	"from": "User",
+	"inherits": "Voron 2.4 250 0.2 nozzle",
+	"machine_start_gcode": "PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]",
+	"name": "Mamont 0.2n",
+	"print_host": "http://voron24.int.bksp.in",
+	"printer_extruder_id": [
+		"1"
+	],
+	"printer_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"printer_settings_id": "Mamont 0.2n",
+	"retraction_length": [
+		"0.4"
+	],
+	"version": "2.3.2.60"
+}

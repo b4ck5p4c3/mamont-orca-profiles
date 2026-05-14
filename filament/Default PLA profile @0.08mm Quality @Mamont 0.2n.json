@@ -1,30 +1,34 @@
 {
-	"enable_pressure_advance": [
-		"1"
-	],
-	"filament_extruder_variant": [
-		"Direct Drive Standard"
-	],
-	"filament_max_volumetric_speed": [
-		"20"
-	],
-	"filament_settings_id": [
-		"Default PLA profile @0.08mm Quality @Mamont 0.2n"
-	],
-	"from": "User",
-	"inherits": "Generic PLA @System",
-	"name": "Default PLA profile @0.08mm Quality @Mamont 0.2n",
-	"nozzle_temperature": [
-		"200"
-	],
-	"nozzle_temperature_initial_layer": [
-		"200"
-	],
-	"pressure_advance": [
-		"0.045"
-	],
-	"slow_down_layer_time": [
-		"2.5"
-	],
-	"version": "2.3.1.10"
+    "compatible_prints": [
+        "0.08mm Quality @Mamont 0.2n",
+        "0.08mm Quality-fast @Mamont 0.2n"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "filament_settings_id": [
+        "Default PLA profile @0.08mm Quality @Mamont 0.2n"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @System",
+    "name": "Default PLA profile @0.08mm Quality @Mamont 0.2n",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "pressure_advance": [
+        "0.045"
+    ],
+    "slow_down_layer_time": [
+        "2.5"
+    ],
+    "version": "2.3.1.10"
 }

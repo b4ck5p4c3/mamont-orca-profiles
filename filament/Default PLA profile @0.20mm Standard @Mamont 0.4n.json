@@ -12,11 +12,11 @@
         "20"
     ],
     "filament_settings_id": [
-        "Default PLA profile"
+        "Default PLA profile @0.20mm Standard @Mamont 0.4n"
     ],
     "from": "User",
     "inherits": "Generic PLA @System",
-    "name": "Default PLA profile",
+    "name": "Default PLA profile @0.20mm Standard @Mamont 0.4n",
     "pressure_advance": [
         "0.045"
     ],

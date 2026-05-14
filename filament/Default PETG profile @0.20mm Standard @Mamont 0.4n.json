@@ -1,21 +1,27 @@
 {
-    "compatible_printers": [
-        "Voron 2.4 250 0.4 nozzle"
-    ],
-    "enable_pressure_advance": [
-        "1"
-    ],
-    "filament_extruder_variant": [
-        "Direct Drive Standard"
-    ],
-    "filament_settings_id": [
-        "Default PETG profile"
-    ],
-    "from": "User",
-    "inherits": "Generic PETG @System",
-    "name": "Default PETG profile",
-    "pressure_advance": [
-        "0.05"
-    ],
-    "version": "2.3.1.10"
+	"compatible_printers": [
+		"Voron 2.4 250 0.4 nozzle"
+	],
+	"enable_pressure_advance": [
+		"1"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_settings_id": [
+		"Default PETG profile @0.20mm Standard @Mamont 0.4n"
+	],
+	"from": "User",
+	"inherits": "Generic PETG @System",
+	"name": "Default PETG profile @0.20mm Standard @Mamont 0.4n",
+	"nozzle_temperature": [
+		"225"
+	],
+	"nozzle_temperature_initial_layer": [
+		"225"
+	],
+	"pressure_advance": [
+		"0.05"
+	],
+	"version": "2.3.1.10"
 }
